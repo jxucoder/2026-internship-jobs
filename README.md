@@ -2,6 +2,8 @@
 
 > **For Software Engineers, ML & Data Scientists, Product Managers, and Designers**
 
+Source: https://newgrad.ai/
+
 ---
 
 ## 📋 Categories
